@@ -1,6 +1,6 @@
 a <- 1
 b <- 2
-c <- a + 0
+c <- a + b
 
 stopifnot(c == 3)
 
