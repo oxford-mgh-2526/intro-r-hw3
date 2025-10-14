@@ -5,7 +5,7 @@ from beginning to end without being interrupted by the `stopifnot` function.
 Your objective is to find and fix these bugs. You must do so
 
 - Without modifying the `stopifnot` functions
-- Without removing/adding any new lines to this script
+- Without removing/adding any new lines to this script (also, don't use any `;`)
 
 ## Hints
 
