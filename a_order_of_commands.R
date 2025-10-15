@@ -35,7 +35,7 @@ print("Steps 4/5 passed")
 
 ## 5 ----
 
-cc <- aa + bb - bb
+cc <- aa + bb * 0
 
 stopifnot(cc == 2)
 
