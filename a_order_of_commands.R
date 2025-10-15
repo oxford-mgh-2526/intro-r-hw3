@@ -3,7 +3,7 @@ rm(list = ls())
 ## 1 ----
 aa <- 1
 bb <- 2
-cc <- aa + 66
+cc <- aa + bb
 
 stopifnot(cc == 3)
 
@@ -11,8 +11,8 @@ print("Steps 1/5 passed")
 
 ## 2 ----
 
-bb <- 11
-cc <- aa
+bb <- 3-2
+cc <- bb
 
 stopifnot(bb == cc)
 
@@ -27,7 +27,7 @@ print("Steps 3/5 passed")
 
 ## 4 ----
 
-aa <- aa - 1
+aa <- aa + 1
 
 stopifnot(aa == 2)
 
@@ -35,7 +35,7 @@ print("Steps 4/5 passed")
 
 ## 5 ----
 
-cc <- aa + bb
+cc <- aa - bb + cc
 
 stopifnot(cc == 2)
 
