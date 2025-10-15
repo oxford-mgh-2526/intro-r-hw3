@@ -51,3 +51,4 @@ You should follow these steps:
 - Use the **link to your branch** of the repository as answer to the Teams assignment question.
     
 Instructions on how to carry out the clone/branch actions are given at the end of the lecture slides.
+[Slides 85 - 89](https://github.com/oxford-mgh-2526/intro-r-lectures/blob/main/slides/1_R_dev_tools.pdf)
