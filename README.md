@@ -42,7 +42,7 @@ you did earlier, and repeat this process until all bugs in the script has been f
 You should follow these steps:
 
 - Clone this repository to your laptop
-- Create and switch to your own branch (use your initials as branch name)
+- Create and switch to your own branch (use your inital_surname as branch name, e.g. b_gao for Bo Gao)
 - Repeat the run-all and fix process described above
 - Commit your fixes as you progress
 - Until all bugs has been fixed (No more error reported when you run everything in `a_order_of_commands.R`)
