@@ -1,7 +1,7 @@
 rm(list = ls())
 
 ## 1 ----
-aa <- 1
+aa <- 1 # change to 1
 bb <- 2
 cc <- aa + bb
 
@@ -35,7 +35,7 @@ print("Steps 4/5 passed")
 
 ## 5 ----
 
-cc <- aa - (0 * bb)
+cc <- aa + bb - 1
 
 stopifnot(cc == 2)
 
