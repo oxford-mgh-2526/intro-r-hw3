@@ -3,7 +3,7 @@ rm(list = ls())
 ## 1 ----
 aa <- 1
 bb <- 2
-cc <- aa + 66
+cc <- aa + bb
 
 stopifnot(cc == 3)
 
